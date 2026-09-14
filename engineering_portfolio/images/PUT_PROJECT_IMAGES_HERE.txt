@@ -1,0 +1,1 @@
+Add project photos, CAD screenshots, plots, and prototype images to this folder.
